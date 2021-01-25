@@ -7,4 +7,3 @@ export function Foo() {
 export const Bar = () => {
   return (<h2>Baaaar</h2>)
 };
-
